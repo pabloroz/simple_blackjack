@@ -1,0 +1,6 @@
+require: rubocop-rspec
+Documentation:
+    Enabled: false
+AllCops:
+  Exclude:
+    - solution.old.rb
